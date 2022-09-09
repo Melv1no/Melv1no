@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **olivet.melvin@gmail.com**
 
-- 📄 Know about my experiences [https://melvin-olivet.fr/cv](https://melvin-olivet.fr/cv)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/melv1n__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melv1n__" height="30" width="40" /></a>
